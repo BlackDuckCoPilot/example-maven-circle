@@ -15,3 +15,4 @@ test:
     - bash <(curl -s https://copilot.blackducksoftware.com/bash/circle) ./*_bdio.jsonld
 ```
 
+olga
